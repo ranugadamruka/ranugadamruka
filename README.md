@@ -59,7 +59,7 @@ I'm a passionate developer who enjoys building useful, scalable, and user-friend
 ### 🔹 Project Name
 > Short description of another project you're proud of.
 
-**Tech:** `Python` `FastAPI` `PostgreSQL`
+**Tech:** `Python` `FastAPI` `SQL`
 
 🔗 [View Project](#) • [Source Code](#)
 
