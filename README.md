@@ -14,7 +14,7 @@ I'm a passionate developer who enjoys building useful, scalable, and user-friend
 - 🎯 Goal: **tech leader**
 - 📍 Based in **sri lanka**
 - 💬 Ask me about **technology**
-- ⚡ Fun fact: **always wake up**
+- ⚡ Fun fact: **always awake**
 
 ---
 
