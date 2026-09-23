@@ -47,7 +47,7 @@ I'm a passionate developer who enjoys building useful, scalable, and user-friend
 
 ## 📌 Featured Projects
 
-### 🔹 Project Name
+### 🔹 UNKNOWN
 > Short description of your project and what problem it solves.
 
 **Tech:** `React` `Node.js` `MongoDB`
