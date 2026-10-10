@@ -8,12 +8,12 @@ I'm a passionate developer who enjoys building useful, scalable, and user-friend
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **coding**
-- 🌱 Currently learning **coding**
+- 🔭 Currently working on **full stack developmets**
+- 🌱 Currently learning **AI**
 - 💡 Interested in **Software Development, AI, Web Development & Open Source**
 - 🎯 Goal: **tech leader**
 - 📍 Based in **sri lanka**
-- 💬 Ask me about **technology**
+- 💬 Ask me about **Science**
 - ⚡ Fun fact: **always wake up**
 
 ---
@@ -45,10 +45,8 @@ I'm a passionate developer who enjoys building useful, scalable, and user-friend
 
 ---
 
-## 📌 Featured Projects
 
-### 🔹 UNKNOWN
-> Short description of your project and what problem it solves.
+
 
 **Tech:** `React` `Node.js` `MongoDB`
 
